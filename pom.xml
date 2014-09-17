@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jquery-cookie</artifactId>
-    <version>1.4.1</version>
+    <version>1.4.2-SNAPSHOT</version>
     <name>jquery-cookie</name>
     <description>WebJar for jquery-cookie</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/jquery-cookie</url>
         <connection>scm:git:https://github.com/webjars/jquery-cookie.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jquery-cookie.git</developerConnection>
-        <tag>jquery-cookie-1.4.1</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
